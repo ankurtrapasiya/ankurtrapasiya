@@ -2,12 +2,9 @@ title: Ankur Trapasiya's Blog
 author:
   name: ankurtrapasiya
   email: ankur.trapasiya@gmail.com
-description: > # this means to ignore newlines until "show_excerpts:"
-  This is Ankur Trapasiys's Personal Blog. Here he discusses his viewpoints, ideas
-  and shares his knowledge. He is an experiences Software Professional with experience
-  in various Tech stacks. He hold intermediate expertise in Java, Databases and Linux.
-  He holds Masters degree in Information Technology from DA-IICT and is a recipient of 
-  President's Gold Medal for his scholastic performance.   
+description: > 
+  I'm Ankur Trapasiya and I'm a Software Professional. I intend to express my thoughts and learning 
+  through this blog.  
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
