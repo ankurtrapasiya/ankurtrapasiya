@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thank you Professors
+title: Hello World
 ---
 
 It was 2007 when I started college and the first language that I used to code was [QBasic](https://en.wikipedia.org/wiki/QBasic).
@@ -8,7 +8,7 @@ I precisely remember the first program that I wrote was to compare 2 numbers to 
 straight forward and easy to code language. 
 
 ### Thank you Ms. Roohana Parabia
-We had this awesome Professor Ms.Roohana Parabia who taught us problem-solving. This course was the first course that we started 
+We had this awesome Professor Ms. Roohana Parabia who taught us problem-solving. This course was the first course that we started 
 with in college. I have tremendous respect for Ms. Parabia and I think she has a long-lasting impact in my life. She was an excellent Professor
 and she taught me how to learn. I would like to dedicate a few lines to her which I think is very valuable to any new programmer 
 or even an experienced programmer. 
@@ -17,10 +17,11 @@ or even an experienced programmer.
   She had this unique style of teaching. In her first lecture, she asked us how to make Tea. It took me quite a while to understand
   that she was referring to pseudocode for Algorithms. And I still remember, I had answered her question and had suggested that this is 
   an algorithm to make Tea and she asked how do you know. I had replied that I had learnt in school. There was a guy named
-  "Abu Jafar Ibn Gusa Al Khwarizmi" and this term Algorithm is taken from his name. When I took this big name in my class, students were
-  laughing(but I knew I was right) and Ms. Parabia supported me saying that I am right. It was a good beginning. In the next set of lectures,
-  she used to just give us a random statement and used to ask us to draw Flow-Chart for the same. I must say the struggle was real for me.
-  Some students used to give the quick flow-chart and I used to struggle till the end. Eventually with a lot of practice I got better at it.
+  [Abu Jafar Ibn Musa Al Khwarizmi](https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi) and this term Algorithm is taken from his name. 
+  When I took this big name in my class, students were laughing(but I knew I was right) and Ms. Parabia supported me saying that I am right. 
+  It was a good beginning. In the next set of lectures, she used to just give us a random statement and used to ask us to draw Flow-Chart for 
+  the same. I must say the struggle was real for me. Some students used to give the quick flow-chart and I used to struggle till the end. 
+  Eventually with a lot of practice I got better at it.
 
 #### What is the problem
   Often some words keep mumbling in our mind from certain people. "What is the problem" - these 4 words are the words
@@ -90,7 +91,7 @@ int main()
 
 #### Finding bread and butter, The entry of Java.
 
-In my college, one of our professor was very known for his love of Open Source and Java Tech Stack. I had heard from my seniors that big Enterprise Applications
+In my college, one of our professor was very known for his love of Open Source and Java Tech Stack(Dr. Kamlendu Pande). I had heard from my seniors that big Enterprise Applications
 are coded in Java and it's really vast and complex. I got really excited about Java as I wanted to build Enterprise Applications with huge scale and great
 impact. Hence I had learnt Core Java to great detail and with great passion. Eventually, I found my bread and butter also in Java and Yes, I love this Language
 a lot(Please don't ask me to choose between C and Java ;-))
@@ -107,12 +108,4 @@ public class Main {
 }
 {% endhighlight %}
 
-### Thank you Dr.Kamalendu Pande
-
-#### J2EE, EJB, JSF, Hibernate, Web-Services, Linux, SAML
- 
- Where Ms. Parabia taught me problem-solving, it was Dr.Kamalendu Pande who taught me Enterprise Java and this course was so intensive that I didn't have to learn
- Java ever again. He got me excited about Open Source Stuff and I must say anywhere in India, there would be no other professor like Dr. Pande who would teach students
- this level of Practical Application Development as he did. I owe him a lot and I admire him deeply. A fun fact is - students used to get scared knowing that next
- semester is going to be very hard because of Enterprise Java. I turned this into an opportunity by clearing my Sun Certified Java Programming certification before
- this semester and it helped me a lot to grasp every concept Dr. Pande taught to a tremendous level of detail. 
+With that I will proceed with my blog and I'm sure you'll find it useful.
